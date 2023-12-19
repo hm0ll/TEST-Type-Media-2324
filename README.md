@@ -18,3 +18,9 @@ Add .gitignore -> template: python
 Add Licence (This is mostly important for open source projects. Thus choose one, it will create a file, you can change it later, when created. 
 
 Advantage of the Browser App: You can clone the repository with your terminal to your local machine. This you can also do with the Desktop App, but with a lot of UFO files, there is an issue that you can not clone everything. Small changes are no problem for the Desktop Version.
+
+
+File Order:
+Proofs, Exports, UFOS >
+name-of-the-font_style_weight_MA123 *MA123 stands for Master with Cap H stem width of 123 units, for example Helvetica-Neue_bold_italic_MA320
+Burned (old Data, old versions are in github)
