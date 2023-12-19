@@ -14,3 +14,5 @@ Add .gitignore -> template: python
 * You can add to this template file your own rules, what should be ignored. For example Folders that starts with a _, like _export, _proof, _ttf, _otf, _vf .DS_Store
 * The last one is quite useful if you work in a team, because while uploading your files/pulling the versions it is causing a conflict. In .DS_Store there are information stored about the user, location, etc.
 * 
+
+Add Licence (This is mostly important for open source projects. Thus choose one, it will create a file, you can change it later, when created. 
